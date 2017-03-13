@@ -7,5 +7,5 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <footer class="col-xs-12">
-      
+      Hola mundo Sergio Posada
 </footer>
